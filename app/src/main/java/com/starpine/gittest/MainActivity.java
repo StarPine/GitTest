@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         String a = "ge";
         //加多几个
         String b = "jgaj";
+        System.out.println("djgahg");
     }
 }
